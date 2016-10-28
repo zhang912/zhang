@@ -1,0 +1,151 @@
+/*
+html,body
+{
+    width: 100%;
+    height: 100%;
+}
+#wrap
+{
+    width: 100%;
+    height: 100%;
+    background: url("../images/640bg.jpg") 0 0 no-repeat;
+    background-size: 100% 100%;
+}
+#header
+{
+    overflow: hidden;
+}
+.header-logo
+{
+    width: 71px;
+    height: 88px;
+    margin-left: 13px;
+    float: left;
+    background: url("../images/640logo.jpg") 0 0 no-repeat;
+    background-size: 100% 100%;
+}
+#header h3
+{
+    color: #fff;
+    float: left;
+    font-size: 8px;
+    margin-left: 15px;
+    margin-top: 33px;
+
+}
+#con
+{
+    width: 254px;
+    margin: 0 auto;
+    margin-top: 48px;
+}
+.con-tit
+{
+    width: 254px;
+    height:28px;
+    margin: 0 auto;
+}
+.con-tit img
+{
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+.con-text
+{
+    margin-top: 11px;
+    padding:12px 0 13px 0;
+    color: #fff;
+    border-top: 1px solid #c8a3a1;
+    border-bottom: 1px solid #c8a3a1;
+    font-size: 17px;
+    font-style: italic;
+}
+.con-btn
+{
+    height: 35px;
+    background: url("../images/640btn.png") 0 0 no-repeat;
+    background-size: 100% 100%;
+    color: #fff;
+    margin-top: 12px;
+    text-align: center;
+    font-size: 19px;
+    line-height:35px;
+    font-weight: bold;
+    font-style: italic;
+}*/
+html,body
+{
+    width: 100%;
+    height: 100%;
+}
+#wrap
+{
+    width: 100%;
+    height: 100%;
+    background: url("../images/640bg.jpg") 0 0 no-repeat;
+    background-size: 100% 100%;
+}
+#header
+{
+    overflow: hidden;
+}
+.header-logo
+{
+    width: 2.21875rem;
+    height: 2.75rem;
+    margin-left: 0.40625rem;
+    float: left;
+    background: url("../images/640logo.jpg") 0 0 no-repeat;
+    background-size: 100% 100%;
+}
+#header h3
+{
+    color: #fff;
+    float: left;
+    font-size: 0.25rem;
+    margin-left: 0.46875rem;
+    margin-top: 1.03125rem;
+
+}
+#con
+{
+    width: 7.9375rem;
+    margin: 0 auto;
+    margin-top: 1.5rem;
+}
+.con-tit
+{
+    width: 7.9375rem;
+    height:0.875rem;
+    margin: 0 auto;
+}
+.con-tit img
+{
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+.con-text
+{
+    margin-top: 0.34375rem;
+    padding:0.375rem 0 0.40625rem 0;
+    color: #fff;
+    border-top: 1px solid #c8a3a1;
+    border-bottom: 1px solid #c8a3a1;
+    font-size: 0.53125rem;
+    font-style: italic;
+}
+.con-btn
+{
+    height: 1.09375rem;
+    background: url("../images/640btn.png") 0 0 no-repeat;
+    background-size: 100% 100%;
+    color: #fff;
+    margin-top: 0.375rem;
+    text-align: center;
+    font-size: 0.59375rem;
+    line-height:1.09375rem;
+    font-weight: bold;
+    font-style: italic;
+}

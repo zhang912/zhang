@@ -1,0 +1,67 @@
+@charset "utf-8";
+/*=========================Reset_start==========================*/
+body,h1,h2,h3,h4,h5,h6,div,p,dl,dt,dd,ol,ul,li,form,table,th,td,a,img,span,strong,var,em,input,textarea,select,option{margin: 0; padding: 0;}
+html,body{font-family:"微软雅黑","宋体",Arail,Tabhoma;text-align: left;}
+ul,ol{list-style: none;}
+img{border: 0 none;}
+input,select,textarea{outline:0;}
+textarea{resize:none; overflow: auto;}
+table{border-collapse: collapse; border-spacing: 0;}
+th,strong,var,em{font-weight: normal; font-style: normal;}
+a{text-decoration: none;}
+
+/*==========================Reset_End===========================*/
+
+/*@charset "utf-8";*/
+/*html {*/
+    /*font-size:32px;*/
+/*}*/
+/*@media only screen and (min-width: 360px){*/
+    /*html {*/
+        /*font-size: 36px !important;*/
+    /*}*/
+/*}*/
+/*@media only screen and (min-width: 375px){*/
+    /*html {*/
+        /*font-size: 37.5px !important;*/
+    /*}*/
+/*}*/
+ /*@media only screen and (min-width: 384px){*/
+    /*html {*/
+        /*font-size: 38.4px !important;*/
+    /*}*/
+/*} */
+/*@media only screen and (min-width: 412px){*/
+    /*html {*/
+        /*font-size: 41.2px !important;*/
+    /*}*/
+/*}*/
+/*@media only screen and (min-width: 414px){*/
+    /*html {*/
+        /*font-size: 41.4px !important;*/
+    /*}*/
+/*}*/
+/*@media only screen and (min-width: 481px){*/
+    /*html {*/
+        /*font-size: 48.1px !important;*/
+    /*}*/
+/*}*/
+/*@media only screen and (min-width: 481px){*/
+    /*html {*/
+        /*font-size: 48.1px !important;*/
+    /*}*/
+/*}*/
+/*@media only screen and (min-width: 540px){*/
+    /*html {*/
+        /*font-size: 54px !important;*/
+    /*}*/
+/*}*/
+/*@media only screen and (min-width: 600px){*/
+    /*html {*/
+        /*font-size: 60px !important;*/
+    /*}*/
+    /*body{*/
+        /*max-width: 600px;*/
+    /*}*/
+
+/*}*/
